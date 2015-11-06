@@ -27,7 +27,7 @@
 	margin-bottom: 10px;
 	margin-right: 4%;
 	text-align: center;
-	border-top: 6px solid #538fcc;
+	border-top: 6px solid #138d20;
 	background-color: #fafafa;
 }
 
@@ -39,13 +39,13 @@
 .item-icon a {
 	display: block;
 	padding-bottom: 1rem;
-	color: #538fcc;
+	color: #138d20;
 }
 
 .item-icon .fa {
 	font-size: 4rem;
 	margin-bottom: 2rem;
-	color: #999;
+	color: #138d20;
 }
 
 /* Modal */
@@ -131,4 +131,9 @@
 .event-checkin-btn {
   width: 100%;
   max-width: 250px;
+}
+
+/*homepage top block styling*/
+.homepage-top-block {
+  background: #fff none repeat scroll 0 0;
 }
