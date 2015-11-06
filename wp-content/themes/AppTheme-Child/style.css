@@ -1,0 +1,238 @@
+/*
+
+ Theme Name:   AppTheme Child
+ Theme URI:    http://apppresser.com
+ Description:  A starter child theme for AppPresser.
+ Author:       AppPresser
+ Author URI:   AppPresser
+ Template:     apptheme
+ Version:      1.0.0
+ License:      GNU General Public License
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+ AppPresser WordPress Child Theme, Copyright 2014 AppPresser
+ AppPresser is distributed under the terms of the GNU GPL
+
+ AppPresser uses code from _s ("Underscores") WordPress Theme, Copyright 2013 Automattic, Inc.
+ Bootstrap designed and built by @mdo and @fat, sass-ified by Aaron Lademann @alademann http://getbootstrap.com/ license http://www.apache.org/licenses/LICENSE-2.0
+ Images included with the theme are under GPL license.
+
+*/
+
+@import url("../apptheme/style.css");
+
+/* Add your custom styles below */ 
+.button {
+  background: #3396d1 none repeat scroll 0 0 !important;
+  color: #fff !important;
+  text-transform: uppercase !important;
+}
+
+.button:hover {
+    background: #fff !important;
+    border-style: solid !important;
+    border-width: 1px !important;
+    border-color: #3396d1 !important;
+    color: #3396d1 !important;
+}
+
+p {
+	font-size: 14px;
+}
+
+.item-icon {
+    width: 48%;
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 4%;
+    text-align: center;
+    border-top: 6px solid #538fcc;
+    background-color: #fafafa;
+}
+
+.item-icon.last-col {
+    margin-right: 0;
+    clear: right;
+}
+
+.item-icon a {
+    display: block;
+    padding: 2rem;
+    color: #538fcc;
+}
+
+.item-icon .fa {
+    font-size: 5rem;
+    margin-bottom: 3rem;
+    color: #999;
+}
+
+
+/*removes rss button from jobs page*/
+.rss_link {
+    display: none;
+}
+
+/*
+*
+* Styling Applications Page
+*
+*/
+/*styling the info under "quick details"*/
+div.job-applications ul.job-applications li.job-application header {
+  line-height: 13px !important;
+}
+
+/*adds a colon and space after the list of items*/
+.application-defined-list dt::after {
+  content: ":\00a0" !important;
+}
+
+.application-defined-list dt {
+  float: left !important;
+  margin-left: -20px !important;
+}
+
+.application-defined-list dd {
+  margin: 0 0 3px !important;
+}
+
+/*styling headers*/
+.job-application-cost {
+  display: block;
+  margin-top: 1px;
+}
+
+.application-title {
+  float: right;
+}
+
+.application-contact {
+    font-size: small;
+    text-align: right;
+}
+
+/*
+.page-id-37 .candidate_photo {
+    max-height: 250px !important;
+    max-width: 250px !important;
+    min-width: unset !important;
+}
+
+.page-id-37 div.job-applications ul.job-applications li.job-application header img {
+  display: inline-block;
+  margin: 0 !important;
+  vertical-align: middle;
+}
+
+.page-id-37 .campaign-feature-image img, .comment-content img, .entry-content img, .entry-summary img, .widget img, .wp-caption { 
+  max-width: 250px !important;
+}*/
+
+.job-applications .candidate_photo {
+  max-height: 250px !important;
+  max-width: 250px !important;
+  min-width: unset !important;
+}
+
+.send-message {
+  background: #3396d1 none repeat scroll 0 0;
+  border-radius: 5px;
+  color: #fff !important;
+  float: right;
+  font-size: small;
+  padding: 5px;
+}
+
+:hover.send-message {
+  text-decoration: none;
+}
+
+.application-defined-list {
+  margin: 5% !important;
+}
+
+div.job-applications ul.job-applications li.job-application footer ul.actions li a {
+  width: 50px;
+}
+
+/*mobile styling stuff*/
+@media only screen and (max-width: 400px) {
+  
+  div.job-applications ul.job-applications li.job-application footer ul.meta {
+    max-width: 100%;
+  }
+
+  .job-application-cost {
+    display: inline-block;
+    width: 90%;
+    margin-left: 1em;
+    text-align: right;
+  }
+
+  /*.candidate_photo {
+    min-width: unset !important;
+  }*/
+
+  .application-photo-header > a {
+  float: right;
+  }
+
+  div.job-applications ul.job-applications li.job-application footer ul.actions {
+  margin: 0 0 0 0;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+
+  div.job-applications ul.job-applications li.job-application section.job-application-content .job-application-meta, div.job-applications ul.job-applications li.job-application section.job-application-edit .job-application-meta, div.job-applications ul.job-applications li.job-application section.job-application-notes .job-application-meta {
+    width: 100%;
+  }
+}
+/*
+* Ending Applications page styling
+*/
+
+/*
+*
+* Styling My Chores page
+*
+*/
+.applications {
+  text-align: center;
+}
+
+.applications > a {
+  background: #3396d1 none repeat scroll 0 0;
+  border-radius: 20px;
+  color: #fff !important;
+  display: block;
+  height: 40px;
+  line-height: 40px;
+  width: 40px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.applications > a:hover {
+  background: #fff !important;
+  border-color: #3396d1 !important;
+  color: #3396d1 !important;
+  text-decoration: none !important;
+  border:1px;
+  border-style: solid;
+  text-align: center;
+}
+
+.date {
+    display: none !important;
+}
+
+.expires {
+    display: none !important;
+}
+
+.applications {
+    text-align: center !important;
+}
