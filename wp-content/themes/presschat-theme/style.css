@@ -137,3 +137,9 @@
 .homepage-top-block {
   background: #fff none repeat scroll 0 0;
 }
+
+/*staff sections*/
+.staff-sections {
+  display: block;
+  float: left;
+}
