@@ -163,7 +163,7 @@ foreach ( $groups as $group ):
 
 		if ( $link_posts ):
 			$permalink = get_post_permalink( $player_id );
-			$name = '<a href="' . $permalink . '">' . $name . '</a>';
+			$name = '<a class="ajaxify" href="' . $permalink . '">' . $name . '</a>';
 		endif;
 
 		$output .= '<td class="data-name' . $name_class . '">' . $name . '</td>';

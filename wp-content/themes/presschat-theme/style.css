@@ -143,3 +143,8 @@
   display: block;
   float: left;
 }
+
+/*hides date published on footers*/
+.appp-posted-on {
+  display: none;
+}

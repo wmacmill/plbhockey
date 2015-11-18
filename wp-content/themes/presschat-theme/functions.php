@@ -87,3 +87,4 @@ function app_show_intro() {
 }
 
 add_action( 'init', 'app_show_intro', 999 );
+

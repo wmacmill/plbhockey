@@ -23,4 +23,6 @@ function apppCustomModal(event) {
 
 jQuery(document).on('ready load_ajax_content_done', function($) {
 	jQuery('.gallery-icon a').on( 'click', apppCustomModal );
+	jQuery('a').addClass('ajaxify');
 });
+
