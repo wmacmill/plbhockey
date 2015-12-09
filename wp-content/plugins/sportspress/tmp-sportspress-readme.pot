@@ -1,0 +1,3562 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "SportsPress - Manage Leagues &amp; Sports Clubs"
+msgstr ""
+
+#. Short description.
+msgid "SportsPress is an extendable all-in-one sports data plugin that helps sports clubs set up and manage a league or club site quickly and easily."
+msgstr ""
+
+#. Screenshot description.
+msgid "Select your sport to automatically install presets and sample data."
+msgstr ""
+
+#. Screenshot description.
+msgid "Each team has a unique logo and website URL. Optionally link teams from your blog to their official websites."
+msgstr ""
+
+#. Screenshot description.
+msgid "The overview page provides a birds-eye view of your entire sports network."
+msgstr ""
+
+#. Screenshot description.
+msgid "Configure variables used throughout the plugin to fit your sport. Presets are provided for some sports, and will automatically populate these options."
+msgstr ""
+
+#. Screenshot description.
+msgid "Design your own points system using the custom drag-and-drop equation builder."
+msgstr ""
+
+#. Screenshot description.
+msgid "Twenty Fourteen theme showcasing the dynamic league table and some of the included widgets."
+msgstr ""
+
+#. Found in description header.
+msgid "Create a Professional Sports Website"
+msgstr ""
+
+#. Found in description header.
+msgid "Industry Reviews"
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Free Extensions"
+msgstr ""
+
+#. Found in description header.
+msgid "SportsPress Pro"
+msgstr ""
+
+#. Found in description header.
+msgid "Available Languages"
+msgstr ""
+
+#. Found in description header.
+msgid "Sport Presets Included"
+msgstr ""
+
+#. Found in description header.
+msgid "Esports Presets"
+msgstr ""
+
+#. Found in description header.
+msgid "SportsPress Themes for Clubs"
+msgstr ""
+
+#. Found in description header.
+msgid "Documentation"
+msgstr ""
+
+#. Found in description header.
+msgid "Get Involved"
+msgstr ""
+
+#. Found in description header.
+msgid "Stay Current"
+msgstr ""
+
+#. Found in description header.
+msgid "Please Rate, Vote, and Enjoy!"
+msgstr ""
+
+#. Found in description list item.
+msgid "Equation Builder"
+msgstr ""
+
+#. Found in description list item.
+msgid "Club Profiles with Player List"
+msgstr ""
+
+#. Found in description list item.
+msgid "Automated League Standings with Club Logos"
+msgstr ""
+
+#. Found in description list item.
+msgid "Events (Fixtures &amp; Results) with Player Performance"
+msgstr ""
+
+#. Found in description list item.
+msgid "Events Calendar"
+msgstr ""
+
+#. Found in description list item.
+msgid "Player Profiles &amp; Statistics"
+msgstr ""
+
+#. Found in description list item.
+msgid "Player Lists"
+msgstr ""
+
+#. Found in description list item.
+msgid "Staff Profiles"
+msgstr ""
+
+#. Found in description list item.
+msgid "Select Current Club and Previous Clubs"
+msgstr ""
+
+#. Found in description list item.
+msgid "Season Archives"
+msgstr ""
+
+#. Found in description list item.
+msgid "Venue Information &amp; Maps"
+msgstr ""
+
+#. Found in description list item.
+msgid "Statistics &amp; League Table Columns Configuration"
+msgstr ""
+
+#. Found in description list item.
+msgid "Sport Presets"
+msgstr ""
+
+#. Found in description list item.
+msgid "Switch Between Club vs Club and Player vs Player Mode."
+msgstr ""
+
+#. Found in description list item.
+msgid "Import Events, Clubs, Players, and Staff from CSV Files"
+msgstr ""
+
+#. Found in description list item.
+msgid "Easy Shortcodes Menu in Editor"
+msgstr ""
+
+#. Found in description list item.
+msgid "Events Integrate with iCal"
+msgstr ""
+
+#. Found in description list item.
+msgid "Certified compatibility with <a href=\"http://wpml.org/plugin/sportspress/\">WPML</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/sportspress-for-cricket/\">SportsPress for Cricket</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/sportspress-for-soccer/\">SportsPress for Football (Soccer)</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/sportspress-for-golf/\">SportsPress for Golf</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "English – English ( en_US )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Arabic – العربية ( ar )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Armenian – Հայերեն ( hy )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Bulgarian – Български ( bg_BG )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Chinese (China) – 中文 ( zh_CN )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Croatian – Hrvatski ( hr )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Czech – Čeština ( cs_CZ )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Danish – Dansk ( da_DK )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dutch – Nederlands ( nl_NL )"
+msgstr ""
+
+#. Found in description list item.
+msgid "French – Français ( fr_FR )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Finnish – Suomi ( fi )"
+msgstr ""
+
+#. Found in description list item.
+msgid "German – Deutsch ( de_DE )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Greek – Ελληνικά ( el_GR )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Hungarian – Magyar ( hu_HU )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Italian – Italiano ( it_IT )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Japanese – 日本語 ( ja )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Korean – 한국어 ( ko_KR )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Macedonian – македонски ( mk_MK )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Norwegian Bokmål – Norsk bokmål ( nb_NO )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Persian – فارسی ( fa_IR )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Polish – Polski ( pl_PL )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Portuguese (Brazil) – Português do Brasil ( pt_BR )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Portuguese (Portugal) – Português ( pt_PT )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Romanian – Română ( ro_RO )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Russian – Русский ( ru_RU )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Slovak – Slovenčina ( sk_SK )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Slovenian – Slovenija ( sl_SI )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish – Español ( es_ES )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Swedish – Svenska ( sv_SE )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Tamil – தமிழ் ( ta_IN )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Thai – ไทย ( th )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Turkish – Türkçe ( tr_TR )"
+msgstr ""
+
+#. Found in description list item.
+msgid "American Football"
+msgstr ""
+
+#. Found in description list item.
+msgid "Association Football (Soccer)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Australian Rules Football"
+msgstr ""
+
+#. Found in description list item.
+msgid "Baseball"
+msgstr ""
+
+#. Found in description list item.
+msgid "Basketball"
+msgstr ""
+
+#. Found in description list item.
+msgid "Cricket"
+msgstr ""
+
+#. Found in description list item.
+msgid "Darts"
+msgstr ""
+
+#. Found in description list item.
+msgid "Golf"
+msgstr ""
+
+#. Found in description list item.
+msgid "Handball"
+msgstr ""
+
+#. Found in description list item.
+msgid "Ice Hockey"
+msgstr ""
+
+#. Found in description list item.
+msgid "Lacrosse"
+msgstr ""
+
+#. Found in description list item.
+msgid "Netball"
+msgstr ""
+
+#. Found in description list item.
+msgid "Rugby League"
+msgstr ""
+
+#. Found in description list item.
+msgid "Rugby Union"
+msgstr ""
+
+#. Found in description list item.
+msgid "Snooker"
+msgstr ""
+
+#. Found in description list item.
+msgid "Softball"
+msgstr ""
+
+#. Found in description list item.
+msgid "Squash"
+msgstr ""
+
+#. Found in description list item.
+msgid "Table Tennis"
+msgstr ""
+
+#. Found in description list item.
+msgid "Tennis"
+msgstr ""
+
+#. Found in description list item.
+msgid "Volleyball"
+msgstr ""
+
+#. Found in description list item.
+msgid "Water Polo"
+msgstr ""
+
+#. Found in description list item.
+msgid "Counter-Strike: Global Offensive"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dota 2"
+msgstr ""
+
+#. Found in description list item.
+msgid "League of Legends"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://tboy.co/fc\">Football Club</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://tboy.co/premier\">Premier</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://tboy.co/installation\">Getting Started</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://tboy.co/roles\">User Roles</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://tboy.co/integration\">Integration Guide</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://tboy.co/actionref\">Actions</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://tboy.co/filterref\">Filters</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://tboy.co/shortcoderef\">Shortcodes</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Visit the <a href=\"http://tboy.co/pro\">SportsPress Pro homepage</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "Subscribe to our <a href=\"http://tboy.co/youtube\">YouTube channel</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "Follow ThemeBoy on <a href=\"http://tboy.co/facebook\">Facebook</a> &amp; <a href=\"http://tboy.co/twitter\">Twitter</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Transform your WordPress blog into a fully configurable team, club, or league website. Features a suite of sports tools including fixtures, results, automated standings, players rankings, and individual profiles for clubs, players, and staff."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "[youtube http://www.youtube.com/watch?v=KQyga_C5a6M]"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "\"<em>There are number of professional sports club who likes to maintain their information and statistics online, SportsPress plugin makes this process really easy, cost effective and quick.</em>\" — <a href=\"http://www.indexwp.com/sportspress-plugin-review/\">Indexwp</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "\"<em>Script of the Day: While the WordPress repository holds various team and sports-related plugins, few of them come close to what you can achieve with SportsPress.</em>\" — <a href=\"http://news.softpedia.com/news/Script-of-the-Day-SportsPress-409247.shtml\">Softpedia</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "\"<em>SportsPress is our number 1 WordPress plugin for sport!</em>\" — <a href=\"http://gbcoach.org.uk/5-great-wordpress-plugins-for-sport/\">GBSport</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "\"<em>The freely available and highly impressive SportsPress plugin offers terrific functionality including a fixtures listing, league table, player &amp; staff profiles, customizable point system and a built-in translation system for 36 different languages.</em>\" — <a href=\"http://clubthemes.com/awesome-sporting-templates-themes-wordpress-joomla/\">Club Themes</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "More details about each feature are available on the <a href=\"http://tboy.co/pro\">SportsPress Website</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Looking for more advanced sports functionality? Upgrade to <a href=\"http://tboy.co/pro\">SportsPress Pro</a> to get access to more advanced features for your team, club, or league website."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Feel free to share your suggestions with us so we can continue to develop awesome sports club features for you guys!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Developers can contribute via the <a href=\"https://github.com/ThemeBoy/SportsPress/blob/master/CONTRIBUTING.md\">SportsPress GitHub Repository</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Translators can contribute to SportsPress translations through <a href=\"https://www.transifex.com/projects/p/sportspress/\">Transifex</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "To keep up with the latest updates and new features, be sure to do the following:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Your feedback is much appreciated and makes all the difference in improving SportsPress."
+msgstr ""
+
+#. Found in installation header.
+msgid "Minimum Requirements"
+msgstr ""
+
+#. Found in installation header.
+msgid "Automatic Installation"
+msgstr ""
+
+#. Found in installation header.
+msgid "Manual Installation"
+msgstr ""
+
+#. Found in installation header.
+msgid "Upgrading"
+msgstr ""
+
+#. Found in installation list item.
+msgid "WordPress 3.8 or greater"
+msgstr ""
+
+#. Found in installation list item.
+msgid "PHP version 5.2.4 or greater"
+msgstr ""
+
+#. Found in installation list item.
+msgid "MySQL version 5.0 or greater"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin file to your computer and unzip it"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Using an FTP program, or your hosting control panel, upload the unzipped plugin folder to your WordPress installation's wp-content/plugins/ directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin from the Plugins menu within the WordPress admin."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "[youtube http://www.youtube.com/watch?v=nE8-RlbotmU]"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't even need to leave your web browser. To do an automatic install of SportsPress, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "In the search field type \"SportsPress\" and click Search Plugins. Once you've found our sports plugin you can view details about it such as the point release, rating and description. Most importantly of course, you can install it by simply clicking Install Now. After clicking that link you will be asked if you're sure you want to install the plugin. Click yes and WordPress will automatically complete the installation."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "The manual installation method involves downloading our sports plugin and uploading it to your webserver via your favorite FTP application."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Automatic updates should work like a charm; as always though, ensure you backup your site just in case."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "If on the off-chance you do encounter issues with the event/team/player/staff pages after an update you simply need to flush the permalinks by going to WordPress &gt; Settings &gt; Permalinks and hitting 'save'. That should return things to normal."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display team names and score template without logos."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Validate hex color input."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add sp prefix to TGMPA notice to avoid conflict with other plugins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Empty seasons displaying in player profiles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Error on pages with no screen objects."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Tandor, muhahmetkara, elarequi, diego.battistella, and tkausch to translation team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Polish, Tamil, German, Turkish, Spanish, Dutch, and Portuguese translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Automatic event results calculating without player performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Turkish translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable presets to define result equations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Move event logo settings to new section in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Disable custom colors by default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display league tables and player lists as auto when not manual."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Prevent teams containing quotes to duplicate during import."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Enable importing with special characters in team and player names."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Check for zero in equation denominator contained within parenthesis."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Placeholder in admin indicating automatic result."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Update cricket preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Tamil translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to add custom table headings to calendars, league tables, and player lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Revert automatically hiding featured images when viewing teams, players, and staff."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Team site URL escaping links in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Escape text inputs in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update German translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Venue subset to reflect statistics from a team's home venue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Use team order instead of venue to get home and away subset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Allow special HTML characters in player list fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Relabel box score to scorecard."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Player list sorting by ascending squad number."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Ales70, Elmister, and chinnz25 to translation team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Tamil (India) translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Persian, Finnish, Italian, Czech, Greek, Slovenian, and Polish translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Streaks calculation in league tables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add Home and Away subset options to table column equation builder."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display player and team checklists in admin only when Manual mode is enabled to improve performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add mahdi12 to translation team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Persian and Polish translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Event results skipping some players in player list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Dynamic stats not being reflected in player lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Add up statistics from multiple competitions and seasons in player list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Use player metrics as default in player list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Spanish translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New Icons module containing vector icon options for player performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add event results to equation builder."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Allow different page templates to be selected for each post type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add equation builder to automate event results based on player performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Allow Event Managers to edit venues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Display post excerpts in templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Hide featured image if photo or logo is displayed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add default outcome condition for events with more than 2 teams."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to display competition and season in player details."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add Google map zoom option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add national flag option to player list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add competition and season filter to manually inserted calendar shortcodes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Move cricket functionality to free extension."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Improve individual mode admin screens and functionality."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add styling to default event teams template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add cell padding to admin edit table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display position column only if positions exist."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display Performance as Box Score in all occurrences."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Simplify sample data team names."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Move League Table module to Teams section."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display column labels for time and results in split team mode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Lock variable names once published to prevent equations from breaking."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Rename featured image meta boxes to reflect image type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Improve readability of equations in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Trim delimiter example when limit is more than 3 teams."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Allow a team limit of 0 for unlimited teams per event."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Sample data generator for individual mode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Overview hierarchy in individual mode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Event delimiter sample output."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Error in league table when stats are empty."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Check if teams exist in countdown."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add golf preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Recommend sport-specific extensions for cricket, golf, and football (soccer)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Greek and French translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable multiple nationalities for players and staff."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable multiple seasons and competitions for league tables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable multiple seasons, competitions, and positions for player lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add custom title field and widget alignment option to shortcodes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to always increment league table position."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Import button on admin pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Update jQuery DataTables to version 1.10.8 props devilsaces."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Group translation team by language and display stats."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add albpower, elgolden, mobking, wah826, iojvan, eifelstudio, deckerweb, denkuhn, green_big_frog, Flubber89, sododesign, webby1973, Laislebai, slappfiskene.no, AugustoNeto, lfrodines, GonerSTUDIO, cofeman.sl, i1m3a7n92, opticadeharo, and ViktoriaRuzhylo to translation team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Polish, Finnish, Armenian, German, Slovenian, Italian, Czech, Dutch, Spanish, Romanian, and French translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to hide player and staff details."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Ability to display multiple current teams in staff profile."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add custom table heading option to widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add random sorting to player gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to hide player list and league table titles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add heading option to player positions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display Soccer (Association Football) as Football."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Flush permalinks automatically when saving modules."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Separate scrollable and responsive table options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display event performance icon tables in 2 columns."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Duplicate league table captions in team page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add softball preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add FollowCandyPanda to translation team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Polish, Spanish, German, Norwegian, Dutch, Finnish, Russian, Armenian, and Czech translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update modules page to reflect a change in offered features."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Team dropdowns disappearing when none found in the competition and season assigned to an event."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Russian translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Error merging option arrays."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add m4rsal to translation team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Polish, Spanish, German, Norwegian, Dutch, and Finnish translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Installation screen notice related to default color scheme."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add vetsmi, ceyhunulas, pgbenini, paulcoppen, fernandori, wolforg, and chr86 to translation team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Dutch, Spanish, Portuguese (Brazil), French, and German translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Settings page styling updated."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - New modules category added for admin-related dashboard modules."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Widget floating issue in some themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Timezones added to calendar feeds using blog timezone setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Event filters generating redundant queries."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Finnish, Norwegian, Turkish, Polish, Portuguese (Brazil), and Portuguese (Portugal) translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Make scrollable tables fill content width."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Improve widget alignment precision."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove paginate link default color."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Future event post permalinks not found."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Ability to display multiple widgets on one line by aligning left and right."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Increase league table row height only when logos are displayed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Taxonomy selection not displaying in admin after WordPress 4.2 update."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add nagashitw, jikji96, and edesl to translation team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Czech, German, Finnish, Portuguese, Korean, Italian, and Spanish translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Games Behind calculation added to equation builder."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Home Record and Away Record calculation added to equation builder."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to reverse team order in events."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Allow inline results editing only if user has permissions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Allow underscore in equation variable names."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update welcome page with free Rookie theme link."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Group sport presets into more descriptive categories."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display module descriptions in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Combine player and staff modules."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Move mode setting to event page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add option to show only top-level positions in events."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Change Rounding to Decimal Places for clarity."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Change Player Performance to Box Score."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add proper editing capabilities to Team Manager role."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Empty positions hidden in box score."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Update baseball preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Kosovo to countries list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Use standard localization functions to improve translatability."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Spanish and Japanese translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add option to filter teams in event by competition and season with no filter as default setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Modules sidebar not displaying in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Calendars empty when no teams selected."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Filter teams by competition and season on page load when editing event."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable multiple team selection in calendars."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Ability to install free starter theme from modules page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Use YouTube for tutorials instead of Vimeo."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Finnish, Dutch, Czech, Italian, and Polish translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add option to hide/show player statistics."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Always load overview, widgets, and importers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Notice displaying in player statistics when no players available."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Greek, Polish, Finnish, Dutch, and Icelandic translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Player positions disappearing in event page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Individual mode automatically loading by default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Polish translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Activation error related to server limitations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Greek translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable multiple seasons and competitions to be selected for events, calendars, player lists, and league tables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable primary performance selection."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable event result columns to be displayed automatically."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable switching overview, widgets, and importers on and off via modules."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New color scheme selector."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New video tutorials module."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Allow event performance tables to be split by team and by player position."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Allow extras row to be displayed in event performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display event venue address below map."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display plugin and theme recommendations only to network admins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Hide player details section if none available."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Link module request to form instead of email."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Responsive table scrollbar causing horizontal page scrolling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Misplaced config meta boxes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Scrollbar appearing in countdown widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Event blocks template not honoring link events setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - League table position calculations for tied teams."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Filter out empty results when viewing events in admin list view."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Invalid array issue when viewing league tables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Enable sport presets to define plugin options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Update cricket and ice hockey presets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Number changed to Squad Number."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Polish, French, Czech, Dutch, Kannada, Finnish, Swedish, German, Russian, Greek, Portuguese, and Japanese translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Countdown moved to module and now able to display team logos."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to show or hide event list titles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display latitude and longitude fields when adding venues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Calculating equations with nested parentheses."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Minor meta box mislabeling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add Lacrosse preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Polish, French, Czech, Dutch, Kannada, Finnish, and Swedish translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New modules page to quickly toggle additional features."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to automatically populate player list and league table based on criteria."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Display link to CSV importer at the top of admin list pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Update jQuery dataTables to version 1.10.4."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Wrap responsive tables via script."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New API functions for team abbreviations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable searching team names in event edit screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Enable global setting to use plugin as team-vs-team or player-vs-player (beta)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Use 3-letter FIFA country codes with fallback for 2-letter codes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Merge scrollable and responsive settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Make AJAX shortcodes hookable for extensions and modules."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Mode maps setting to events tab."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Highlight jobs link in admin menu when editing a job."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Hide theme notice from welcome pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Prepend prefix to frontend CSS selectors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Change Team Results to Event Results."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display result rows only for teams that have been selected."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - League table displaying zeroes when competition is selected and season is set to all."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Notice when players don't exist in event."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Career totals not displaying in player profiles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Player performance displaying rows when no team is selected."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Events linking in countdown widget and event list when option is turned off."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Option to hide event blocks title."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Event logos displaying different images when teams are not selected."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add default labels for overtime in baseball and basketball presets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add Counter-Strike: Global Offensive preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update list of countries for nationality selection."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New inline quick result editing for events."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Automatically detect event outcome based on user-defined conditions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable individual players to compete in events."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add new API functions for theme developers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add event list time/results formatting options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to display player career totals."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to display team logos in event lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to display venue in event blocks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Split iCal feed links for Apple Calendar, Google, and Outlook."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Move Staff to dedicated menu link."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Load sportspress.php template as a fallback only."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add caption header to event blocks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add selector classes to event venue rows."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove line breaks after template output."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Disable responsive event performance when icons are shown."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update default color scheme."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update player gallery thumbnail markup."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Sort Player positions dropdown by slug."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Frontend styling to add margins and fix overflows."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Countdown datetime format."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Page slug conflict with SendPress."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Missing sample event video link."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - iCal feed formatting when venue location is not set."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Update presets to include automatic outcome conditions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Puerto Rico to countries list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Polish, German, Spanish, Russian, Finnish, Italian, Armenian, Greek, Dutch, Turkish, French, and Bengali translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New staff shortcode and widget to display staff photo and details."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display player photo in player details shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Sample event csv to reflect soccer preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Saving a manual offset timezone."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add player positions to volleyball preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Turkish, Italian, Polish, Finnish, and French translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Include all events that have results in league table calculations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Duplicate Jobs selector in Edit Staff page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Update basketball preset column priorities."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Finnish, Polish, Italian, Greek, Dutch, Turkish, and Russian translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Away team players not being displayed without players in home team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Primary team results always using default setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Finnish and Spanish translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Automatically select event venue based on home team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Featured images not displaying in some themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - New Floorball preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Finnish and Armenian translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update API functions for events and teams."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update sample video links."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Remove calendar link background color for more consistent styling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Finnish, Italian, Russian, and Spanish translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove solid color from base stylesheet to improve integration."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - League table positions not sorting by sort order."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New welcome page with intro video and separate tabs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New iCal feeds for event calendars."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add date range selector to event calendars."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Ability to insert sample data during installation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Assign teams same position in league table when all values are tied."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Display time/results between home and away teams in event list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Theme-specific stylesheets to apply when third-party theme is active."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Make event lists sortable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add team and event logo templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add player and staff photo templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to hide Rank column in player lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to toggle frontend templates per post type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to use abbreviated team names."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to enable comments in events articles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Change label for League to Competition."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Bold and apply class to highlighted team name in league table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove team from venue hierarchy in overview."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Admin editor styles to match WordPress 4.0 inline editor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display performance icons in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Change default sport to Custom."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display none when no team available for player."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Permanently delete config post types when sent to trash."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add hooks to widgets, shortcodes, and templates for integration."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Display team checkbox only once in player admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - CSV team importer not saving all fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Adjust player positions in sport presets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add Bats / Throws metric to Baseball preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add Bat brand metric to Cricket preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Make Video and Current Teams translatable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Auto-load RTL stylesheet."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Include only compiled languages to reduce overall size."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Apply text options to translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Dutch, French, Armenian, Russian, Croatian, German, Greek, Thai, Japanese, Bosnian, Turkish, Spanish, Arabic, Italian, and Polish translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Integration - WPML compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to set number of columns in player gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove line break after templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update plugin icon."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update welcome screen badge."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display admin menu label as Players &amp; Staff."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Typo in sample CSV import file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Apply default color scheme when left blank."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Notices where taxonomies or posts not found."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update source strings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update French and Dutch translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Player list shortcode meta displayed on league table edit page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Dutch translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New overview page with interactive sitemap."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New and improved CSV import tools for bulk adding."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New full time minutes setting in events for statistics calculation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New roles taxonomy for staff."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to display home/away teams in event lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to display league and season in event blocks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to choose all leagues and seasons in league table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to choose all leagues and seasons in player list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Choose between displaying values and icons in event player performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to display photos in player list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Filter players by league and season in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Select a team to highlight in league tables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Display league tables in team pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Display total statistics per player."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add team option to countdown widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add scrollable tables option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Ability to adjust overall table columns per team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Remove individual mode in favor of upcoming hybrid."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Use global linking options per post type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Display player position in profile."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Reorganize settings options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update SportsPress icon."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Rename widgets for better usability."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add div wrappers to templates for easier targeting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Show or hide admin checkboxes based on event format."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Make event list and blocks pagination independent."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Trim admin table padding."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display all event performance columns by default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Event list results column not always displaying."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - New Rugby Union preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - New League of Legends preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - New DotA 2 preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Group into traditional sports and esports."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add missing primary results and column priorities."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Fix multilingual post linking."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Thai translation by Xyteton."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Xyteton, tyby94, &amp; SilverXp to translation team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update translations from Transifex."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add water polo preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Macedonian translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Armenian, Bulgarian, Finnish, German, Greek, Japanese, &amp; Norwegian translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Responsive table columns hidden when script active."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Finnish &amp; German translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Number format rounding issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Data calculations for values above 1000."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update French, Finnish, Dutch, Greek, &amp; Armenian translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Team URL and abbreviation not saving when adding new team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Armenian, Finnish, French, &amp; German translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Display event results in admin teams columns."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Ensure teams are in order in event results."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Streaks calculator in league tables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Streaks calculator in team columns."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update German, Greek, &amp; Norwegian translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display link to docs instead of themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Enable hide theme support notice."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Typo in table caption classes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable option to display team's total player performance per event."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Order player gallery positions by slug."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove unused Played column setting from Player List widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - League Table widget columns setting independent from post setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Event List widget columns setting not being applied."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Row limits in League Table, Player List, &amp; Event List shortcodes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Armenian, Finnish, &amp; French translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Shortcode dropdown menu added to page and post editor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New shortcodes added to individual player profiles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add timezone setting in place of base country."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Order player list positions by slug."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Wrap templates with div for frontend styling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Date format in sample events CSV."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Fix WPML duplicate posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Armenian, Finnish, French, German, Norwegian, &amp; Spanish translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Inconsistent country code for Wales."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Localize post date month names."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Warning message when changing mode on welcome page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Armenian, French, Italian &amp; Norwegian translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Maps not loading in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Wrap post content with div for easier templating."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update French translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add home venue option in team admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Move editor meta boxes to bottom of post edit page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove link to league and season archives."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Previous and next post function in some themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Duplicate team checkboxes in player."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add table tennis preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Update ice hockey preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Display all event result columns by default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Event outcome abbreviation for streak column."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - League table calculations for constants with 2 or more digits."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add ice hockey preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add volleyball preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Armenian translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Finnish translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Check if equation is attempting to divide by zero to prevent errors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Player statistics meta box message."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Make baseball preset appear in dropdown."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable individual sport mode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable displaying player lists on team pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable player performance reordering in events."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable changing player numbers and positions per event."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add date selector to display today's events and this week's events in calendar."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to redirect team permalinks to official team website instead of team page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Display staff in event performance section."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add column selector to player profiles and player lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to show or hide player performance section in events."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add global padding option to SportsPress settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Force decimals to display when precision is set."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add SportsPress post types to At a Glance section in dashboard."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Filter checklists by league and season."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display layout type in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Improve roles and permissions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Some select all checkboxes defaulted to being checked."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Use gettext filter to alter frontend text."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add American Football preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add Australian Rules Football preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add baseball preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add cricket preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add darts preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add handball preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add netball preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add Rugby League preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add squash preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add tennis preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Update soccer preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Armenian translation by ArtakEVN."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Shorthand php notation removed for better compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Hide theme integration notice."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Initialize columns array in player list class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Conditional install error relating to post types function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New drag and drop equation builder."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add team website link in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable searching for post user when there are more than 10."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New event manager role that can publish and manage events only."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Fix league table alignment and responsive height."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Set maximum size of event blocks logos."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add option to link venues in event list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove margin between table and scrollbar."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display delimiter between team logos under event title."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Hide media, comments, and tools from feature limited users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Hide previous and next post links for custom post types."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Rounding explicitly displays all decimal places."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Combine players and staff in admin menu."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Duplicate team logos in event blocks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Query future events for next team event."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Live countdown in admin dashboard."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Display all current teams in player profile."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Norwegian Bokmål translation by sijo."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Force delete preset variables when switching sports in settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Apply player gallery limit."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Display localized team results string."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Use more common thumbnail sizes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Portuguese (Portugal) translation by Andrew_Melim."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Player list columns not displaying."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Duplicate editor fields in team edit screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add text domain to configure descriptions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Change default country to US."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Event block results display for teams without logos."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Import tool added for importing staff from CSV file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add checkboxes to select player statistics columns."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to select Google Map type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to display team logos under event title."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable player metrics and statistics selection in player list widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable linking event blocks and event list to team pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Move leagues and seasons to SportsPress submenu."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Use singular post type slugs by default for consistency with WP core."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove alternate color in favor of link color setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Enable scrollable tables to prevent overflow."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add helper text to venue location picker."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Adjust markup and remove link in league table caption."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Insert group name anchors to player list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display post type counts in system status."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Event list results calculation when team column unchecked."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Display player group names."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Add snooker preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Finnish translation by JuKi and hanro."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Chinese translation by dic_2008."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Dutch translation by valentijnreza."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Issue adding teams to events."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Issue saving new venues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to limit number of teams per event."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Show venue option in Countdown widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable multiple current teams per player."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Format performance data for use in templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add next event function to team for template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Adjust theme template loader for venues and seasons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Replace featured image text in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Use wider map zoom setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Make SportsPress tables full width by default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Team filter in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Displaying 1 view as plural."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable using events started and substituted in statistics equations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove deprecated MySQL version function from System Status page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Adjust styling to display select boxes in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Add content in main loop only."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Output player statistics in system status."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Prepend templates to content instead of outputting directly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Enable metrics usage in individual player statistics."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New shortcode event_results."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New shortcode event_details."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New shortcode event_performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New blocks layout to display calendars in fixtures/results style."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New player statistics calculate values using performance and metrics."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New staff profiles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New System Status screen in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add status selector to calendars and event widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add ability to display statistics and metrics in player lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add time/results column to event list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Link WP user roles with players and staff."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Display player substitutions in event page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to group player lists by position."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to display outcomes in event results."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Player profiles now use statistics and performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Split admin CSS files for better performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display player numbers in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Move SportsPress settings to top-level page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Link date to event page in event list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Load Google Maps script only when needed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add descriptions to configure screen for clarity."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Create dedicated settings tab for text settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove redundant border from pagination table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display players and teams as total count in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Display player number when 0 or 00."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Enable changing variable name or key from quick edit."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Team data saving issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Display all future events in venue archive."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Display all metrics instead of filtering by position."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Croatian translation by i__k."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Greek translation by Spirossmil."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Portuguese (Brazil) translation by rochester."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Russian translation by Selskei."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Slovenian translation by BOCo."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Shortcode added to display single event content."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display default shortcode format when editing a calendar or player list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add backwards compatibility for shortcodes prior to version 0.7."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Template hook to change display strings in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable editing Key field in Metrics and Performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Lighter default color scheme."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Update missing assets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Activation error preventing new installation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Welcome page to display on activation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Frontend color scheme selection."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Custom CSS option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add venue column to event list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Manual point adjustments added to league tables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable table pagination."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable live countdown setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Only load required classes to improve performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Change statistic to performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Soft deprecate sportspress prefixed functions in favor of sp prefix."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Filter players in events by current team."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Separate admin styles to improve load times."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add margin above view all link in widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Group text options by context."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display event details in standard table markup for style consistency."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display venue as a table for style consistency."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Hide individual player performance when players not selected."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Responsive league table glitch."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Warning messages when adding new team, player, or event."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Countdown widget when event is selected."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Multiple select box height glitch in some browsers fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Arabic translation by Abdulelah."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - German translation by Bhelpful2."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Swedish translation by JensZ."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add options to make tables responsive and sortable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Use consistent shortcode naming with backwards compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Display full event results on hover over main team result in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to choose delimiter to use between team names in event titles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Adjust text options to modify front-end only."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Responsive league table output and styling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New events shortcodes: countdown, events-calendar, and events-list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New teams shortcode: league-table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New players shortcodes: player-list and player-gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Display available shortcodes in post edit screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add new settings page to change default text output."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add new section to permalinks settings to change post and term slugs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display teams as link list in admin page for league table teams columns."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Vertically align team logos in league table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Check if player belongs to leagues to avoid warnings in player profile."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Total player statistics calculation in events."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Responsive tables in event details and outcomes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Display players from all seasons or leagues when none have been created."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Import tool added for importing events from CSV file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New post type Calendar added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - League and Friendly format options added to events."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - List and Gallery format options added to player lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Calendar and List format options added to calendars."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Options added to turn on and off player list columns."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Options added to player list widget to limit rows and display link to view all players."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Options added to calendar widget to filter events."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New widget Events List added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New widget Player Gallery added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Use singular slugs for secondary post types."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add tooltips to icons in admin table headings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Style event results in admin events list. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Separate event date and time in admin events list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Enable custom post type sorting in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Added check before displaying deleted posts in league tables and player lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Adjust Select All filter in player lists and league tables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable selecting multiple outcomes per team per event."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Use icons in dashboard column labels for teams and roster."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Mark current team with check icon in admin player table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Check that selected columns are in array to avoid warning."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Czech translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Slovak translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Polish translation by karimjarro."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable selecting columns to display in single league table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add options to limit rows, display logos, and display full table link."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to display national flags in player profiles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Group Players and Staff under Roster menu group."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Reorder default player profile content."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display player number before page title instead of metrics section."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display player metrics as definition list instead of table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Check if static player list is array to avoid warning message."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Activate checkbox when all players are added to player list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Function date_diff added for PHP &lt; 5.3."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Swedish translation by JensZ."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - SportsPress Status dashboard widget added to display number of events and countdown in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - New dashboard menu icons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - More intuitive player edit screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable spreadsheet style keyboard navigation in admin data tables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add hover action on league table team names to edit display name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Remove min and max outcome options from column equation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Change Rounding precision to default to 0."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Used jQuery Chosen for inputs where useful."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Prepend plugin name to widget titles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Highlight settings in admin menu when adding new config post type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display Events as Schedule in admin sidebar menu."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update widget descriptions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove unused external class eqGraph."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display sort order priority options for number of columns available."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Apply table column rounding when precision is set."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Display event results on events page when available."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Check that event results are available before displaying a warning under certain conditions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Namespace eqEOS class to avoid conflict with other plugins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Use specific strings instead of dynamic ones for more accurate translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Use generic strings where appropriate."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Italian translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Japanese translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add default sorting options per player list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to sort player list alphabetically by name or by default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add England, Scotland, Northern Ireland, and Wales to countries selector."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable searching for countries in dropdown."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Import tool added for importing teams from CSV file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Added option to select custom sport and enter sport name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display player number under photo in admin screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Positions, Leagues, and Seasons columns added to player import tool."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Styled SportsPress setup notice."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Sum changed to Total in player statistic calculation settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Import tool added for importing players from CSV file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add ability to select "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display current team indicator in players admin screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Team filtering in events, tables, players, and lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display statistics for all league/season events played in player profiles and player lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Count events as played when in starting lineup or made substitution."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Display player metrics only when value is set."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Ability to select players from all teams in player list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Decimal sorting in league tables and player lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add player list widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add German translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Spanish translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Italian translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Select columns to display in league table widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Start league table positions at 1 instead of 0."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add French translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Update deprecated function to prevent error in Player Lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Display venue map on event page and venue archive."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Add checks to prevent league table dividing by zero when no events have been played."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Flush rewrite rules for taxonomies on activation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Sort sports presets alphabetically by localized name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable selecting main event result."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add Last 5 counter to table columns."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Update Japanese translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset - Complete American Football preset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - League Table widget added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Recent Events widget added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Future Events widget added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Countdown widget added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Syntax error fixed for PHP version 5.2 and below."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Editor section added to League Tables and Player Lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Events Calendar widget added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Player settings table markup fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Refine custom post type capabilities for user roles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add option to select whether statistics are calculated as a sum or average."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable pageview tracking for posts and custom post types."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Responsive datatables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Add site admin capabilities for multisite."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Force numerical sorting of number column."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Enable SportsPress content functions to be called without explicit ID."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove redundant admin menu links via filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable selecting venues to use uploaded images."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Activate per post type permissions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Give admin all permissions for custom posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove flag images to lighten download size."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - All Plugin-Check warnings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Split templates into files in subdirectory."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Simplify gettext filters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Style conflict with Foundation framework in table columns."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - HTML output added to custom post types with data table sorting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Enable metrics and statistics per player position."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Save team played per season per league in player edit screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Give teams the option to show and hide past seasons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Venues, Seasons, and Leagues added as taxonomies."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add L10 counter to report last 10 outcomes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Add STRK counter to report current outcome streak."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add country names in Czech, German, Spanish, French, Italian, Japanese, Polish, Russian, and Slovak."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Use custom post types for metrics and statistics configuration."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Display HTML tables when viewing League Table and Player List post types."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Link player and team names to single post pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Register default configuration for soccer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Sort league table and player list by priority."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update description."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Alpha release for first look and testing."
+msgstr ""
+
+#. Found in faq header.
+msgid "Which sports does this plugin support?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Will SportsPress work with my theme?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I report bugs or contribute to the project?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Will SportsPress work with my sport?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I import teams/players/staff/matches?"
+msgstr ""
+
+#. Found in faq header.
+msgid "What's the difference between the free and Pro plugin?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Tournaments: Create and display tournaments in a bracket/knockout cup format."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Sponsors: Add your sponsors on your website and track each of their clicks and impressions."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Staff Directories: Show contact information of your key personnel so people know who to get in touch with."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Team Access: Assign users to a specific team and limit their access to data related to that team."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Team Colors: Make each team's profile page unique by displaying their team colors."
+msgstr ""
+
+#. Found in faq list item.
+msgid "League Menu: Display a global navigation bar at the top of your website for easy navigation from one team to the next."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Birthdays: Display each player's birthday and their current age."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Twitter: Add a Twitter feed to team, player, and staff pages."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Branding: Instantly rebrands your admin panel to reflect your organization's brand."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Duplicator: Clone anything with just one click. Great for creating multiple events."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Lazy Loading: Load players using Ajax to speed up the event edit screen."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The plugin will support most team sports with a scoring system. You can customize the table columns and player statistics via SportsPress settings. We've included presets for commonly requested sports, and you can also add your own."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes; SportsPress will work with any theme, but may require some styling to make it match nicely."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Bugs can be reported either in our support forum or preferably on the <a href=\"https://github.com/ThemeBoy/SportsPress/issues\">SportsPress GitHub repository</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The plugin comes preinstalled with several different sports presets to help you get started quickly, but is also flexible enough to be customized to fit the need of any team or individual sport. Please <a href=\"http://wordpress.org/support/plugin/sportspress\">let us know</a> if you'd like to work with us to get your preset added the plugin."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, CSV importers are included with the plugin. Go to Tools &gt; Import and choose from one of the SportsPress CSV importers."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "SportsPress is a free plugin developed to give sports organizations the functionality needed to run a team, club, or league website. The plugin allows you to schedule your upcoming matches and enter the results after you've played a game. Your league tables, team and player statistics will automatically update once you've published the result to reflect the new standings."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Limitations? Don't worry, there are no limitations to the number of events, players, staff members, teams, clubs, or leagues you can add to the free plugin."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<a href=\"http://tboy.co/pro\">SportsPress Pro</a> is a premium plugin made for serious teams who are looking for additional sports functionality in their website. By upgrading to SportsPress Pro, you will be given instant access to a suite of sports modules that will appear in your dashboard."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The current modules that are available exclusively to SportsPress Pro are:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "There are <a href=\"http://tboy.co/pro\">4 different licenses</a> that you can choose from: Social, Club, League, and Agency."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "When you upgrade to one of the SportsPress Pro licenses, you can simply activate the Pro version without losing any of your data. Please note that we recommend that you do a complete backup whenever you make big changes to your website."
+msgstr ""

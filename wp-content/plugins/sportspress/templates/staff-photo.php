@@ -16,7 +16,7 @@ if ( ! isset( $id ) )
 if ( has_post_thumbnail( $id ) ):
 	?>
 	<div class="sp-template sp-template-staff-photo sp-template-photo sp-staff-photo">
-		<?php echo '<a class="ajaxify" href="' . get_permalink( $id ) . '">' . get_the_post_thumbnail( $id, 'medium' ) . '</a>'; ?>
+		<?php echo get_the_post_thumbnail( $id, 'medium' ); ?>
 	</div>
 	<?php
 endif;
